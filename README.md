@@ -6,7 +6,7 @@ Descubre la información nutricional de alimentos procesados y protege tu salud.
 ## Autores
 - [Carlos Sanchez](https://github.com/carlossm907) (U202015274)
 - [Irving Allcca](https://github.com/Evitern07) (U202213241)
-- [Kevin Dextre](https://github.com/KevinDextreMiguel) (u20211c027)
+- [Kevin Dextre](https://github.com/KevinDextreMiguel) (U20211c027)
 - [Michael Quispe](https://github.com/MQRF123) (U20221E734)
 - [Sebastian Ramos](https://github.com/DazzliBoy) (U202222846)
 
